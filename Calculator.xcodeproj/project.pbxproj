@@ -11,7 +11,6 @@
 		F38815D92677785A00F7EA92 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38815D82677785A00F7EA92 /* ContentView.swift */; };
 		F38815DB2677785E00F7EA92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F38815DA2677785E00F7EA92 /* Assets.xcassets */; };
 		F38815DE2677785E00F7EA92 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F38815DD2677785E00F7EA92 /* Preview Assets.xcassets */; };
-		F38815E02677785E00F7EA92 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38815DF2677785E00F7EA92 /* Persistence.swift */; };
 		F38815E32677785E00F7EA92 /* Calculator.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F38815E12677785E00F7EA92 /* Calculator.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
@@ -21,7 +20,6 @@
 		F38815D82677785A00F7EA92 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F38815DA2677785E00F7EA92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F38815DD2677785E00F7EA92 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		F38815DF2677785E00F7EA92 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		F38815E22677785E00F7EA92 /* Calculator.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Calculator.xcdatamodel; sourceTree = "<group>"; };
 		F38815E42677785E00F7EA92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -59,7 +57,6 @@
 				F38815D62677785A00F7EA92 /* CalculatorApp.swift */,
 				F38815D82677785A00F7EA92 /* ContentView.swift */,
 				F38815DA2677785E00F7EA92 /* Assets.xcassets */,
-				F38815DF2677785E00F7EA92 /* Persistence.swift */,
 				F38815E42677785E00F7EA92 /* Info.plist */,
 				F38815E12677785E00F7EA92 /* Calculator.xcdatamodeld */,
 				F38815DC2677785E00F7EA92 /* Preview Content */,
@@ -144,7 +141,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F38815E02677785E00F7EA92 /* Persistence.swift in Sources */,
 				F38815E32677785E00F7EA92 /* Calculator.xcdatamodeld in Sources */,
 				F38815D92677785A00F7EA92 /* ContentView.swift in Sources */,
 				F38815D72677785A00F7EA92 /* CalculatorApp.swift in Sources */,
